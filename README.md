@@ -3,7 +3,7 @@
 ## About Me
 - **Name**: 劉定維
 - **Email**: s1151529@mail.yzu.edu.tw
-- **GitHub**: [@Eric08-31](https://github.com/<Eric08-31>)
+- **GitHub**: Eric08-31(https://github.com/Eric08-31)
 
 ## About This Site
 This is my personal portfolio and project showcase website built with GitHub Pages.
