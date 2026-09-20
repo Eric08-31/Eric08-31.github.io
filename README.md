@@ -1,19 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My GitHub Pages</title>
-</head>
+# Welcome to My GitHub Pages Site
 
-<body>
-    <h1>Welcome to my GitHub Pages site</h1>
+## About Me
+- **Name**: Your Name
+- **Email**: your_email@mail.yzu.edu.tw
+- **GitHub**: [@username](https://github.com/<username>)
 
-    <h2>About Me</h2>
-    <p>My name is 劉定維.</p>
+## About This Site
+This is my personal portfolio and project showcase website built with GitHub Pages.
 
-    <h2>My Course</h2>
-    <p>C++ Programming Laboratory (I)</p>
+## Featured Projects
+- [Project Name](https://github.com/<username>/project-name) — Brief description
+- [Course Repository](https://github.com/<username>/11501_CI001) — CI001 Course assignments
 
-    <h2>My GitHub</h2>
-    <p>GitHub: Eric08-31</p>
-</body>
-</html>
+## Contact
+Feel free to reach out to me at your_email@mail.yzu.edu.tw
