@@ -13,4 +13,4 @@ This is my personal portfolio and project showcase website built with GitHub Pag
 - [Course Repository](https://github.com/<Eric08-31>/11501_CI001) — CI001 Course assignments
 
 ## Contact
-Feel free to reach out to me at Eric08-31@mail.yzu.edu.tw
+Feel free to reach out to me at s1151529@mail.yzu.edu.tw
